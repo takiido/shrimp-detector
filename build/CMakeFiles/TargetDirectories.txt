@@ -1,3 +1,0 @@
-/Users/takiido/Projects/shrimp-detector/build/CMakeFiles/shrimp-detector.dir
-/Users/takiido/Projects/shrimp-detector/build/CMakeFiles/edit_cache.dir
-/Users/takiido/Projects/shrimp-detector/build/CMakeFiles/rebuild_cache.dir
